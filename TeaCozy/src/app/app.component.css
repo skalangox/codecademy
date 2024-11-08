@@ -1,0 +1,41 @@
+
+header {
+  border-bottom: 1px solid seashell;
+  margin: 0 auto;
+  height: 69px;
+  display: flex;
+}
+
+.logo {
+    height: 50px;
+    margin: 10px;
+
+}
+
+.navigation {
+  margin: auto;
+  text-decoration: underline;
+  list-style: none;
+  display: inline-flex;
+  left: 30px;
+}
+
+.navigation li {
+    
+}
+
+body {
+
+}
+
+.banner {
+    margin: 700px;
+}
+
+.locations {
+    margin: 500px;
+}
+
+.contact {
+    margin: 200px;
+}

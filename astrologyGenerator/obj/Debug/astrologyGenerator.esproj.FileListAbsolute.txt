@@ -1,0 +1,1 @@
+C:\GIT\codecademy\astrologyGenerator\obj\Debug\astrologyGenerator.esproj.CoreCompileInputs.cache

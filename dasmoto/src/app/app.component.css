@@ -1,0 +1,34 @@
+h1 {
+  font-family: Helevtica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("C:\GIT\codecademy\dasmoto\resources\image1.jpeg");
+}
+
+h2 {
+  font-family: Helevtica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+a.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 15px;
+    color: blue;
+}
